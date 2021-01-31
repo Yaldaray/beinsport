@@ -1,0 +1,21 @@
+
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://oguzvip.xyz:8080/live/sultan/sultan1234/44050.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
+http://rv.therevenge.co:80/live/242424/242424/80397.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/80396?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/80395?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN Sports Haber HD
+http://raostvip.com:8080/semi16/1609.sem/19633?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN Sports 4 Sd
+http://raostvip.com:8080/semi16/1609.sem/19629?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN Sport 1 Sd
+http://raostvip.com:8080/semi16/1609.sem/118246?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN Sport 1 UHD
+http://raostvip.com:8080/semi16/1609.sem/52977?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",beIN Sport 1 hd
+http://raostvip.com:8080/semi16/1609.sem/52974?checkedby:hlscat.com
