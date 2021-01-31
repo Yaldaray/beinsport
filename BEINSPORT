@@ -1,4 +1,14 @@
-ю#EXTM3U
+#EXTM3U
 #PLAYLIST:hlscat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEINSPORTS 1 SD
 http://rv.therevenge.co:80/live/242424/242424/80394.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://rv.therevenge.co:80/565656/565656/80398?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://185.71.64.167:80/307245103371/307245103371/80398?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://oguzvip.xyz:8080/live/sultan/sultan1234/44050.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://185.71.64.167:80/AO0RKgAr3S/XEJ7yJaA2a/80398?checkedby:hlscat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
+http://rv.therevenge.co:80/live/242424/242424/80398.m3u8?checkedby:hlscat.com
